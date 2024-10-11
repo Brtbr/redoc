@@ -27,6 +27,7 @@ export interface LabelsConfig {
   enum: string;
   enumSingleValue: string;
   enumArray: string;
+  xExtensibleEnum: string;
   default: string;
   deprecated: string;
   example: string;

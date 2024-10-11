@@ -441,6 +441,11 @@ components:
           $ref: '#/components/schemas/EventDates'
         price:
           $ref: '#/components/schemas/EventPrice'
+        test:
+          type: string
+          enum:
+            - test1
+            - test2
       required:
         - name
         - location

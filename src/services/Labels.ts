@@ -4,6 +4,7 @@ const labels: LabelsConfig = {
   enum: 'Enum',
   enumSingleValue: 'Value',
   enumArray: 'Items',
+  xExtensibleEnum: 'x-extensible-enum',
   default: 'Default',
   deprecated: 'Deprecated',
   example: 'Example',
